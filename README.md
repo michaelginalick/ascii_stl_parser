@@ -8,7 +8,7 @@ git clone ascii_stl_parser
 
 cd into repo
 
-run program: ruby driver files/Moon.stl
+run program: ruby driver.rb files/Moon.stl
 
 ## Instructions for running tests
 
