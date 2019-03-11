@@ -4,7 +4,7 @@
 
 ## Instructions for running
 
-git clone ascii_stk_parser
+git clone ascii_stl_parser
 
 cd into repo
 
